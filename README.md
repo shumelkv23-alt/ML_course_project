@@ -96,7 +96,3 @@ python channel_monitor.py
 - **python-telegram-bot** — интерактивный бот
 - **telethon** — клиент Telegram MTProto для мониторинга
 - **urlextract** — извлечение URL по Public Suffix List
-
-## Лицензия
-
-MIT — см. [LICENSE](LICENSE).
