@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+python-telegram-bot>=20.0
+telethon
+python-dotenv
+urlextract
